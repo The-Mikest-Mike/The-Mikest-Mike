@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Miguel Arizmendi</h1>
 <h3 align="center">I'm on my DevOps journey !</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*DluPjzT_eTUFdzHCI7JBZA.gif”>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*DluPjzT_eTUFdzHCI7JBZA.gif">
 
 🌱 I’m currently learning **DevNet Certification Path**
 
