@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm on my DevOps journey </h2>
-<img align="right" alt="Coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
+<img align="right" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2023/03/devops.png" alt="DevOps Image" width="500" height="200">
+
+
 
 🌱 I’m currently learning **DevNet Certification Path**
 
