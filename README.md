@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋, I'm on my Network Automation - DevOps journey </h2>
+<img align="center" height="15px" width="1000px" src="https://img.freepik.com/premium-photo/luxury-black-background-with-golden-line-element_494423-15707.jpg">
 <img align="right" height="200px" width="450px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679214537532/20d973ee-49d7-433e-a3b9-ca96be0b23e0.png">
 
 
