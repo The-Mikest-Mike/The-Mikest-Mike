@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm on my DevOps journey </h2>
-<img align="right" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2023/03/devops.png" alt="DevOps Image" width="500" height="200">
+<img align="right" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2023/03/devops.png" alt="DevOps Image" width="400" height="150">
 
 
 
