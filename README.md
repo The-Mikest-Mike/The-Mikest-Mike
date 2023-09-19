@@ -1,5 +1,3 @@
-[![MasterHead](https://img.freepik.com/premium-vector/abstract-white-gold-luxury-banner-background-vector-abstract-graphic-design-banner-pattern-background-template_249611-5256.jpg?w=800)](https://rishavchanda.io) 
-
 <h2 align="center">Hi 👋, I'm on my DevOps journey </h2>
 <img align="right" alt="Coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
