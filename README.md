@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋, I'm on my DevOps journey </h2>
-<img align="right" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2023/03/devops.png" alt="DevOps Image" width="400" height="150">
-
+<img align="right" height="250px" width="500px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679214537532/20d973ee-49d7-433e-a3b9-ca96be0b23e0.png">
 
 
 🌱 I’m currently learning **DevNet Certification Path**
