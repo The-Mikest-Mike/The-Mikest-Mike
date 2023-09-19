@@ -3,9 +3,7 @@
 
 <pre>
 🌱 I’m currently learning: &nbsp DevNet Certification Path
-</pre>
-
-<pre>
+  
 📫 How to reach me: &nbsp eng.miguelaz@gmail.com
 </pre>
 
