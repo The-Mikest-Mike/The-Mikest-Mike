@@ -5,9 +5,10 @@
 
 
 <pre>
-🌱 I’m currently learning: &nbsp DevNet Certification Path
+🌱 Currently learning: &nbsp <strong> DevNet Certification Path </strong>
   
-📫 How to reach me: &nbsp eng.miguelaz@gmail.com
+📬 Reach me: &nbsp <strong> eng.miguelaz@gmail.com </strong>
+ 
 </pre>
 
 <h3 align="left">Connect with me:</h3>
