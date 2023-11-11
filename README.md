@@ -5,9 +5,9 @@
 
 
 <pre> 
-🚀 Currently learning: &nbsp <strong> DevNet Certification Path </strong>
+🚀 <strong>Currently learning:</strong> &nbsp  DevNet Certification Path
   
-📬 Reach me: &nbsp <strong> eng.miguelaz@gmail.com </strong>
+📬 <strong>Reach me:</strong> &nbsp  eng.miguelaz@gmail.com
  
 </pre>
 
