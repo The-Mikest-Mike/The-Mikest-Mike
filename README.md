@@ -1,4 +1,4 @@
-Hi 👋, I'm on my Network Automation - DevOps journey </h2>
+<h2 Hi 👋, I'm on my Network Automation - DevOps journey </h2>
 <img align="right" height="220px" width="400px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png">
 <pre> 
 🚀 <strong>Currently learning:</strong> &nbsp  DevNet Certification Path
