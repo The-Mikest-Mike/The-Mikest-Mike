@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm on my Network Automation - DevOps journey </h2>
+<img width="796" alt="image" src="https://github.com/The-Mikest-Mike/The-Mikest-Mike/assets/140288757/19baac1d-ab49-4284-b666-6baeee02a501"><h2 align="left">Hi 👋, I'm on my Network Automation - DevOps journey </h2>
 <img align="right" height="220px" width="400px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png">
 
 
@@ -6,8 +6,8 @@
 
 <pre> 
 🚀 <strong>Currently learning:</strong> &nbsp  DevNet Certification Path
-  
 📬 <strong>Reach me:</strong> &nbsp  eng.miguelaz@gmail.com
+LN <strong>Connect with me:</strong> https://www.linkedin.com/in/miguel-arizmendi-0287a197/
  
 </pre>
 
