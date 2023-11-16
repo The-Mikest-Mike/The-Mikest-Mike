@@ -1,10 +1,15 @@
-<h2> Hi 👋, I'm on my Network Automation - DevOps journey </h2>
+<h2 align="left">Hi 👋, I'm on my Network Automation - DevOps journey </h2>
 <img align="right" height="220px" width="400px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png">
+
 <pre> 
 🚀 <strong>Currently learning:</strong> &nbsp  DevNet Certification Path
 📬 <strong>Reach me:</strong> &nbsp  eng.miguelaz@gmail.com
-   <strong>Connect with me:</strong> <p align="right"> <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" height="30" width="40" /></a> </p>
+</pre>
 
+<h3 align="left">Connect with me:</h3>
+    <p align="left">
+        <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" height="30" width="40" /></a>
+    </p>
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left"> 
