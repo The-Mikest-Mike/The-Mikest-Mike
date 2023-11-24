@@ -2,8 +2,8 @@
 <img align="right" height="220px" width="400px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png">
 
 <pre> 
-🚀 <strong>Currently learning:</strong> &nbsp  DevNet Certification Path
-📬 <strong>Reach me:</strong> &nbsp  eng.miguelaz@gmail.com
+🚀 <strong>Currently learning:</strong> &nbsp DevNet Certification Path
+📬 <strong>Reach me:</strong> &nbsp eng.miguelaz@gmail.com
 </pre>
 
 <h3 align="left">Connect with me:</h3>
