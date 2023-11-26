@@ -6,7 +6,7 @@
     📬 <strong>Reach me:</strong> &nbsp; eng.miguelaz@gmail.com
 </div>
 
-
+<br>
 <h3>Connect with me:</h3>
 <p>
     <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197" target="blank">
@@ -14,6 +14,7 @@
     </a>
 </p>
 
+<br>
 <h3>Languages and Tools:</h3>
 <p align="left"> 
     <div> 
