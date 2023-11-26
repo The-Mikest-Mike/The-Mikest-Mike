@@ -16,7 +16,6 @@
     </a>
 </p>
 
-<br>
 <h3> Languages and Tools: </h3>
 <p align="left"> 
     <div> 
