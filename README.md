@@ -1,5 +1,5 @@
 <h2>Hi 👋, Welcome to my Network Automation - DevOps journey </h2>
-<img align="right" height="220px" width="400px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png" alt="Network Automation - DevOps">
+<img align="right" height="200px" width="380px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png" alt="Network Automation - DevOps">
 
 <div style="display: inline-block; background-color: rgba(255, 255, 255, 0.9); padding: 10px; border-radius: 5px;">
     🚀 <strong>Currently learning:</strong> &nbsp; DevNet Certification Path <br>
