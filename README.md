@@ -1,4 +1,6 @@
-<h2>Hi 👋, Welcome to my Network Automation - DevOps journey </h2>
+<h2> Hi 👋, Welcome to my Network Automation - DevOps journey </h2>
+<em> I am passionate about positively impacting and transforming people's lives through technology! </em>
+<br><br>
 <img align="right" height="200px" width="380px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png" alt="Network Automation - DevOps">
 
 <div>
@@ -7,7 +9,7 @@
 </div>
 
 <br>
-<h3>Connect with me:</h3>
+<h3> Connect with me: </h3>
 <p>
     <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -15,7 +17,7 @@
 </p>
 
 <br>
-<h3>Languages and Tools:</h3>
+<h3> Languages and Tools: </h3>
 <p align="left"> 
     <div> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
