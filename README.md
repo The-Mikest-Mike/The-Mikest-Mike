@@ -28,8 +28,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="SeleniumWebDriver" alt"SeleniumWebDriver" width="40" heigh="40"/>&nbsp;
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="flask" width="40" height="40"/> </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> 
+        <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
     </div>
 </p>
 
