@@ -1,4 +1,4 @@
-<h2> 👋 Welcome to my DevOps journey </h2> 
+<h2> 👋 Welcome to my DevOps journey </h2>  
 <em> Passionate about positively impacting and transforming people's lives through technology! </em> 
 <br><br>
 <img align="right" height="200px" width="380px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png" alt="Network Automation - DevOps">
