@@ -7,7 +7,7 @@
     🚀 <strong>Currently learning:</strong> &nbsp; DevNet Certification Path <br>
     📬 <strong>Reach me:</strong> &nbsp; eng.miguelaz@gmail.com
 </div>
-
+ 
 <br>
 <h3> Connect with me: </h3> 
 <p>   
