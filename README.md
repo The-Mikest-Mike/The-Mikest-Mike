@@ -3,6 +3,7 @@
 </h2>
 
 <em>Passionate about positively impacting and transforming people's lives through technology!</em><br><br>
+
 <img align="right" height="200px" width="380px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png" alt="Network Automation - DevOps">
 
 <div>
@@ -10,14 +11,14 @@
     📬 <strong>Reach me:</strong> &nbsp; eng.miguelaz@gmail.com
 </div><br>
 
-<h3>Connect with me:</h3> 
+<h2>Connect with me:</h2> 
 <p>   
     <div href="https://www.linkedin.com/in/miguel-arizmendi-0287a197" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
     </div> 
 </p>
 
-<h3>Languages and Tools:</h3> 
+<h2>Languages and Tools:</h2> 
 <p align="left">  
     <div>  
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
