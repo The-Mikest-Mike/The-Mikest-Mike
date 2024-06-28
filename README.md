@@ -4,7 +4,10 @@
 
 <em>Passionate about positively impacting and transforming people's lives through technology!</em><br><br>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png" alt="Network Automation - DevOps" align="right" height="200px" width="380px" >
+<div>
+    <img src="https://www.pcloudy.com/wp-content/uploads/2020/03/What-is-a-CICD-Pipeline.gif" alt="Network Automation - DevOps" align="right" height="150">
+</div>
+
 
 <div>
     🚀 <strong>Currently learning:</strong> &nbsp; DevNet Certification Path<br>
