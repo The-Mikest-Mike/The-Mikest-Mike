@@ -1,6 +1,7 @@
 <h2>Welcome to my DevOps journey 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> 
 </h2>
+
 <em>Passionate about positively impacting and transforming people's lives through technology!</em><br><br>
 <img align="right" height="200px" width="380px" src="https://miro.medium.com/v2/resize:fit:1400/0*bV6AQdCcj_2w_3u4.png" alt="Network Automation - DevOps">
 
