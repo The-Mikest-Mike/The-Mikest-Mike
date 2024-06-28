@@ -4,10 +4,6 @@
 
 <em>Passionate about positively impacting and transforming people's lives through technology!</em><br><br>
 
-<div>
-    🚀 <strong>Currently learning:</strong> &nbsp; DevNet Certification Path<br> 
-</div><br>
-
 <h2>Connect with me:</h2> 
 <p>  
     <div> <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" height="20" width="20">&nbsp;&nbsp;eng.miguelaz@gmail.com </div>
