@@ -5,11 +5,6 @@
 <em>Passionate about positively impacting and transforming people's lives through technology!</em><br><br>
 
 <div>
-    <img src="https://www.pcloudy.com/wp-content/uploads/2020/03/What-is-a-CICD-Pipeline.gif" alt="Network Automation - DevOps" align="right" height="150">
-</div>
-
-
-<div>
     🚀 <strong>Currently learning:</strong> &nbsp; DevNet Certification Path<br>
     📬 <strong>Reach me:</strong> &nbsp; eng.miguelaz@gmail.com
 </div><br>
