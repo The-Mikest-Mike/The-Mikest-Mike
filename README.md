@@ -1,18 +1,18 @@
 <h2>Welcome to my DevOps journey 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30">    
 </h2>
 
 <em>Passionate about positively impacting and transforming people's lives through technology!</em><br><br>
 
 <div>
-    🚀 <strong>Currently learning:</strong> &nbsp; DevNet Certification Path<br>
-    📬 <strong>Reach me:</strong> &nbsp; eng.miguelaz@gmail.com
+    🚀 <strong>Currently learning:</strong> &nbsp; DevNet Certification Path<br> 
 </div><br>
 
 <h2>Connect with me:</h2> 
-<p>   
+<p>  
+    <div> <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" height="20" width="20">&nbsp;&nbsp;eng.miguelaz@gmail.com </div>
     <div href="https://www.linkedin.com/in/miguel-arizmendi-0287a197" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /> 
     </div> 
 </p>
 
