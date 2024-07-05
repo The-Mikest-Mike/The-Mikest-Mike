@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30">    
 </h2>
 
-🌱&nbsp;<em>Passionate about positively impacting and transforming people's lives through technology!</em>&nbsp;🪴<br><br>
+🌱&nbsp;<em>Passionate about positively impacting and transforming people's lives through technology!</em>&nbsp;🌳<br><br>
 
 <h2>Connect with me:</h2> 
 <p>  
