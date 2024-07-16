@@ -18,5 +18,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://assets-v2.lottiefiles.com/a/15e2b914-1170-11ee-ba16-df793f9a8690/q2IwFxLW9e.gif" title="Cursor" alt="Cursor" width="20" height="40"/>&nbsp;
+    <img src="https://cdn.dribbble.com/users/1621742/screenshots/5435578/loading_loop-1-dribbble.gif" title="Cursor" alt="Cursor" width="40" height="20"/>&nbsp;
 </p>
