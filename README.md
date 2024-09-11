@@ -1,5 +1,5 @@
 ## Welcome to my DevOps journey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="30" height="30">
-🌱 *Passionate about positively impacting and transforming people's lives through technology!* 🌳
+🌱 *Passionate about positively impacting and transforming people's lives through technology!* 🌳 
 
 ## Connect with me:
 <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" alt="Email icon" width="30" height="30"> eng.miguelaz@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"> LinkedIn Profile](https://www.linkedin.com/in/miguel-arizmendi-0287a197)
