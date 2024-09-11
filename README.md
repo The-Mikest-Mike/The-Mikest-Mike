@@ -5,7 +5,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/8818/8818431.png" alt="Email icon" width="30" height="30"> eng.miguelaz@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"> LinkedIn Profile](https://www.linkedin.com/in/miguel-arizmendi-0287a197)
 
 ## Languages and Tools:
-<p align="left">  
+<p align="left">   
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
     <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
