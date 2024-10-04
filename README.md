@@ -5,7 +5,7 @@
 
 
 <!-- Minimalist Flat Button for LinkedIn -->
-<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+<a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="105" height="30" />
 </a>
 
