@@ -29,4 +29,4 @@ eng.miguelaz@gmail.com
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="600" height="150"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="580" height="150"/>
