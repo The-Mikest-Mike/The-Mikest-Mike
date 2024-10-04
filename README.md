@@ -3,7 +3,7 @@
 
 ## Connect with me:
 <!-- Button for LinkedIn -->
-<a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile of Miguel Arizmendi">
+<a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="85" height="25"/>
 </a>&nbsp; 
 
