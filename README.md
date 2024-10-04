@@ -6,12 +6,12 @@
 
 <!-- Smaller Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" >
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="85" height="25" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="85" height="25"/>
 </a>
 
 <!-- Smaller Button for Gmail -->
 <a href="mailto:eng.miguelaz@gmail.com" >
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="85" height="25" /> eng.miguelaz@gmail.com
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="85" height="25"/> eng.miguelaz@gmail.com
 </a>
 
 
@@ -30,6 +30,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="SNK" alt="SNK" width="630" height="160"/>&nbsp;
-    
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="SNK" alt="SNK" width="600" height="150"/>
 </p> 
