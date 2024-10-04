@@ -4,15 +4,16 @@
 ## Connect with me:
 
 
-<!-- Minimalist Flat Button for LinkedIn -->
+<!-- Smaller Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" >
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="105" height="30" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="85" height="25" />
 </a>
 
-<!-- Minimalist Flat Button for Gmail -->
+<!-- Smaller Button for Gmail -->
 <a href="mailto:eng.miguelaz@gmail.com" >
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="105" height="30" /> eng.miguelaz@gmail.com
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="85" height="25" /> eng.miguelaz@gmail.com
 </a>
+
 
 
 ## Languages and Tools:
