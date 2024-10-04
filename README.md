@@ -13,7 +13,7 @@
 </a><br>
 eng.miguelaz@gmail.com
 
-## Languages and Tools:
+## Tech Stack:
 <div style="display: flex; flex-wrap: wrap; align-items: left;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
