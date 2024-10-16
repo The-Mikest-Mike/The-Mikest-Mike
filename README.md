@@ -1,5 +1,5 @@
 # Welcome to my DevOps journey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25">
-🌱 *Passionate about positively impacting and transforming people's lives through technology!* 🌳 
+🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 
 
 ## Connect with me:
 <!-- Button for LinkedIn -->
