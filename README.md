@@ -30,3 +30,24 @@ eng.miguelaz@gmail.com
 </div>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="580" height="150"/>
+
+
+
+## Services & Consultations: 
+_DevOps and UC&C Network Engineering Services_ <br>
+_Let's discuss together your idea, project, question or whatever you have in mind_ <br>
+
+Click on one of the options below to schedule a free 1-hour consultation, or [book directly via Calendly](https://calendly.com/your-calendly-link).
+
+
+### Schedule Consultation for Hourly Rate Services  (_free 1-hour_)
+[![Hourly Rate](https://img.shields.io/badge/Schedule%20Consultation-Hourly%20Rate-blue)](mailto:eng.miguelaz@gmail.com?subject=Hourly%20Rate%20Consultation&body=Hi%20Miguel%2C%0D%0A%0D%0AI%27d%20like%20to%20schedule%20a%20consultation%20to%20discuss%20your%20hourly%20rate%20services.%0D%0A%0D%0A%5BYour%20Name%5D%0D%0A%0D%0AYou%20can%20also%20book%20a%20free%20consultation%20here%3A%20https%3A%2F%2Fcalendly.com%2Fyour-calendly-link)
+
+
+### Book a Custom Quote Consultation (_free 1-hour_)
+[![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-orange)](mailto:eng.miguelaz@gmail.com?subject=Custom%20Quote%20Consultation&body=Hi%20Miguel%2C%0D%0A%0D%0AI%27d%20like%20to%20schedule%20a%20consultation%20to%20discuss%20a%20custom%20quote.%0D%0A%0D%0A%5BYour%20Name%5D%0D%0A%0D%0AYou%20can%20also%20book%20a%20free%20consultation%20here%3A%20https%3A%2F%2Fcalendly.com%2Fyour-calendly-link)
+
+
+### Book a Consultation for Larger Projects (_free 1-hour_)
+[![Larger Projects](https://img.shields.io/badge/Book%20Consultation-Larger%20Projects-brightgreen)](mailto:eng.miguelaz@gmail.com?subject=Larger%20Project%20Consultation&body=Hi%20Miguel%2C%0D%0A%0D%0AI%27d%20like%20to%20schedule%20a%20consultation%20to%20discuss%20a%20larger%20project.%0D%0A%0D%0A%5BYour%20Name%5D%0D%0A%0D%0AYou%20can%20also%20book%20a%20free%20consultation%20here%3A%20https%3A%2F%2Fcalendly.com%2Fyour-calendly-link)
+
