@@ -37,7 +37,8 @@ eng.miguelaz@gmail.com
 _DevOps and UC&C Network Engineering Services_ <br>
 _Let's discuss together your idea, project, question or whatever you have in mind_ <br>
 
-Click on one of the options below to schedule a free 1-hour consultation, or book directly via Calendly 🫴 [![Book a Meeting](https://img.shields.io/badge/Book%20a%20Meeting-Calendly-brightgreen?style=flat&logo=google-calendar&logoColor=green)](https://calendly.com/with_miguel)
+Click on one of the options below to schedule a free 1-hour consultation, or book directly via Calendly <br>
+🫴 [![Book a Meeting](https://img.shields.io/badge/Book%20a%20Meeting-Calendly-brightgreen?style=flat&logo=google-calendar&logoColor=green)](https://calendly.com/with_miguel)
 
 
 
