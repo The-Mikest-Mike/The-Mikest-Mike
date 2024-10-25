@@ -39,7 +39,7 @@ _I can also help you prepare for your Cisco DevNet Associate Certification Exam_
 
 Click on one of the options below to schedule a consultation: <br>
 
-### Schedule a Free 1-hHour Session <br>
+### Schedule a Free 1-Hour Session <br>
 🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20a%20Free%20Meeting-Calendly-brightgreen?style=flat&logo=google-calendar&logoColor=green)](https://calendly.com/with_miguel)
 
 
