@@ -37,15 +37,15 @@ _DevOps and UC&C Network Engineering Services_ <br>
 _Let's discuss together your idea, project, question or whatever you have in mind_ <br>
 _I can also help you prepare for your Cisco DevNet Associate Certification Exam_
 
-Click on one of the options below to schedule a consultation: <br>
+Click on one of the options below to **schedule** a consultation: <br>
 
-### Schedule a Free 1-Hour Session <br>
+### Free 1-Hour Session <br>
 🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20a%20Free%20Meeting-Calendly-brightgreen?style=flat&logo=google-calendar&logoColor=green)](https://calendly.com/with_miguel)
 
 
-### Schedule Consultation for Hourly Rate Services
+### Consultation (Hourly Rate Services)
 [![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-white)](https://calendly.com/with_miguel/hourly-rate-consultation)
 
-### Schedule a Custom Quote Consultation <br>
+### Custom Quote Consultation <br>
 _For Small, Mid or Larger Projects_ <br>
 [![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-purple)](https://calendly.com/your-custom-quote-link)
