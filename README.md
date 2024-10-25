@@ -44,5 +44,5 @@ Click on one of the options below to schedule a consultation, or book a free 1-h
 ### Schedule Consultation for Hourly Rate Services
 [![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-white)](https://calendly.com/your-hourly-rate-link)
 
-### Book a Custom Quote Consultation for Small, Mid or Larger Projects
+### Schedule a Custom Quote Consultation for Small, Mid or Larger Projects
 [![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-purple)](https://calendly.com/your-custom-quote-link)
