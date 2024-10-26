@@ -38,13 +38,14 @@ Let's discuss together your idea, project, question or whatever you have in mind
 
 Click on one of the options below to **schedule** a consultation: <br>
 
-### Free 1-Hour Session <br>
+### Free 1-Hour Session: <br>
 🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20a%20Free%20Meeting-Calendly-brightgreen?style=flat&logo=google-calendar&logoColor=green)](https://calendly.com/with_miguel)
 
 
 ### Consultation (Hourly Rate Services)
+_Ideal for troubleshooting, one-off tasks, or short-term projects, including automation tasks_ <br>
 [![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-white)](https://calendly.com/with_miguel/hourly-rate-consultation)
 
-### Custom Quote Consultation <br>
-_For Small, Mid or Larger Projects_ <br>
+### Custom Quote Consultation:
+_Best for small, mid, or larger projects that require a tailored solution_ <br>
 [![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-purple)](https://calendly.com/your-custom-quote-link)
