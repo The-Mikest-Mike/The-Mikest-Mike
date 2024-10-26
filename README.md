@@ -33,9 +33,8 @@ eng.miguelaz@gmail.com
 
 
 ## Services & Consultations: 
-_DevOps and UC&C Network Engineering Services_ <br>
+_DevOps, DevNet and UC&C Network Engineering Services_ <br>
 _Let's discuss together your idea, project, question or whatever you have in mind_ <br>
-_I can also help you prepare for your Cisco DevNet Associate Certification Exam_
 
 Click on one of the options below to **schedule** a consultation: <br>
 
