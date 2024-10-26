@@ -34,8 +34,8 @@ eng.miguelaz@gmail.com
 
 ## Services & Consultations: 
 _DevOps, DevNet and UC&C Engineering Services_ <br>
-Let's discuss together your idea, project, question or whatever you have in mind <br>
 
+Let's discuss together your idea, project, question or whatever you have in mind <br>
 Click on one of the options below to **schedule** a consultation: <br>
 
 ### Free 1-Hour Session: <br>
@@ -43,9 +43,9 @@ Click on one of the options below to **schedule** a consultation: <br>
 
 
 ### Consultation (Hourly Rate Services)
-_Ideal for troubleshooting, one-off tasks, or short-term projects, including automation tasks_ <br>
-[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-white)](https://calendly.com/with_miguel/hourly-rate-consultation)
+[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-white)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or short-term projects, including automation tasks
+
 
 ### Custom Quote Consultation:
-_Best for small, mid, or larger projects that require a tailored solution_ <br>
-[![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-purple)](https://calendly.com/your-custom-quote-link)
+[![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-purple)](https://calendly.com/your-custom-quote-link) Best for small, mid, or larger projects that require a tailored solution
+
