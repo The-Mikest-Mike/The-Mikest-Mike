@@ -33,8 +33,8 @@ eng.miguelaz@gmail.com
 
 
 ## Services & Consultations: 
-_DevOps, DevNet and UC&C Network Engineering Services_ <br>
-_Let's discuss together your idea, project, question or whatever you have in mind_ <br>
+_DevOps, DevNet and UC&C Engineering Services_ <br>
+Let's discuss together your idea, project, question or whatever you have in mind <br>
 
 Click on one of the options below to **schedule** a consultation: <br>
 
