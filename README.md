@@ -47,5 +47,5 @@ Click on one of the options below to **schedule** a consultation: <br>
 
 
 ### Custom Quote Consultation:
-[![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-blue)](https://calendly.com/your-custom-quote-link) Best for small, mid, or larger projects that require a tailored solution
+[![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-blue)](https://calendly.com/tbd-link) Best for small, mid, or larger projects that require a tailored solution
 
