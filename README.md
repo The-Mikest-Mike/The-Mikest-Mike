@@ -36,6 +36,7 @@ eng.miguelaz@gmail.com
 _DevOps, DevNet and UC&C Engineering Services_ <br>
 
 Let's discuss together your idea, project, question or whatever you have in mind <br>
+Feel free to share some times that you’re available, or you can also pick from my 'Calendly' below if it’s easier. <br>
 Click on one of the options below to **schedule** a consultation: <br>
 
 ### Free 1-Hour Session: <br>
