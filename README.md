@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="80" height="25"/>
 </a><br>
 eng.miguelaz@gmail.com
+503 849 1492
 
 ## Tech Stack:
 <div style="display: flex; flex-wrap: wrap; align-items: left;">
