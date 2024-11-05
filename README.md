@@ -44,7 +44,7 @@ Click on one of the options below to **schedule** a consultation: <br>
 
 
 ### Consultation (Hourly Rate Services)
-[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-white)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or short-term projects, including automation tasks
+[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-cyan)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or short-term projects, including automation tasks
 
 
 ### Custom Quote Consultation:
