@@ -11,7 +11,7 @@
 <a href="mailto:eng.miguelaz@gmail.com" title="Send me an email" alt="Email Miguel Arizmendi at eng.miguelaz@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="80" height="25"/>
 </a><br>
-eng.miguelaz@gmail.com
+eng.miguelaz@gmail.com <br>
 503 849 1492
 
 ## Tech Stack:
