@@ -40,7 +40,7 @@ Feel free to share some times that you’re available, or you can also pick from
 Click on one of the options below to **schedule** a consultation: <br>
 
 ### Free 1-Hour Session: <br>
-🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20a%20Free%20Meeting-Calendly-brightgreen?style=flat&logo=google-calendar&logoColor=green)](https://calendly.com/with_miguel)
+🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20a%20Free%20Meeting-Calendly-brightgreen?olor=green)](https://calendly.com/with_miguel)
 
 
 ### Consultation (Hourly Rate Services)
