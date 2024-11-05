@@ -36,7 +36,7 @@
 _DevOps, DevNet and UC&C Engineering Services_ <br>
 
 Let's discuss together your idea, project, question or whatever you have in mind <br>
-Feel free to share some times that you’re available, or you can also Click on one of the options below to **schedule** a consultation: <br>
+Feel free to share some times that you’re available, or you can also Click on one of the options below to **book** a consultation: <br>
 
 ### Free 1-Hour Session: <br>
 🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20a%20Free%20Meeting-Calendly-brightgreen?olor=green)](https://calendly.com/with_miguel)
