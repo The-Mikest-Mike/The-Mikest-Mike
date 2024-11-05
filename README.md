@@ -39,7 +39,8 @@ Let's discuss together your idea, project, question or whatever you have in mind
 Feel free to **Click** on one of the options **below** to **book** a consultation: <br>
 
 ### Free 1-Hour Session: <br>
-🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20a%20Free%20Meeting-Calendly-brightgreen?olor=green)](https://calendly.com/with_miguel)
+🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour%20meeting-brightgreen?color=green)](https://calendly.com/with_miguel)
+
 
 
 ### Consultation (Hourly Rate Services)
