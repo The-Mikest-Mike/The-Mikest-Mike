@@ -15,7 +15,7 @@
 ☎️ &nbsp; +1 (503) 849 1492</p>
 
 <h1>Tech Stack:</h1>
-<div style="display: flex; flex-wrap: wrap; align-items: left;">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -29,14 +29,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
-
+<br>
 <h1>Services & Consultations:</h1>
 
 <p>DevOps, DevNet and UC&C Engineering Services</p>
 
 <p>Book a Consultation:</p>
 
-<h4>Free 1-Hour Meeting: 🫴</h4>
+<h4>Free 1-Hour Meeting:</h4>
 <p>
 <a href="https://calendly.com/with_miguel">
   <img src="https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour%20meeting-brightgreen?color=green" alt="Book Free Meeting"> 
