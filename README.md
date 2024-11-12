@@ -1,4 +1,6 @@
-# Welcome to my DevOps journey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25">
+# Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25"> <br>
+Personalized UC&C and DevOps Solutions 
+
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 
 
 ## Connect with me:
@@ -35,8 +37,8 @@
 ## Services & Consultations: 
 _DevOps, DevNet and UC&C Engineering Services_ <br>
 
-Let's connect and discuss together your idea, project, question or whatever you have in mind <br>
-Feel free to **Click** on one of the options **below** to **book** a consultation: <br>
+Let's connect to discuss your ideas, projects, or technical challenges<br>
+**Click** on one of the options **below** to **book** a consultation: <br>
 
 ### Free 1-Hour Meeting: <br>
 🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour%20meeting-brightgreen?color=green)](https://calendly.com/with_miguel)
