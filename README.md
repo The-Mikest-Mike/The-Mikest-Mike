@@ -2,9 +2,7 @@
 
 <p><strong>Crafting UC&C and DevOps solutions tailored to your unique needs.</strong></p>
 
-🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳
-
----
+🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br><br>
 
 <h3>Connect with Me:</h3>
 
