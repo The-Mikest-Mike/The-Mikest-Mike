@@ -38,9 +38,9 @@
 
 <h3>Services & Consultations:</h3>
 
-<p><strong>DevOps, DevNet and UC&C Engineering Services</strong></p>
+<p>DevOps, DevNet and UC&C Engineering Services</p>
 
-<p><strong>Book a Consultation:</strong></p>
+<p>Book a Consultation:</p>
 
 <h4>Free 1-Hour Meeting: 🫴</h4>
 <p>
