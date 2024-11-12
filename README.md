@@ -12,7 +12,7 @@
 </a><br>
 
 <p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
-☎️ &nbsp; +1 (503) 849 1492</p> <br>
+☎️ &nbsp; +1 (503) 849 1492</p>
 
 <h2>Tech Stack:</h2>
 <div style="display: flex; flex-wrap: wrap; align-items: left;">
@@ -28,7 +28,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-</div> <br>
+</div>
 
 <h2>Services & Consultations:</h2>
 
