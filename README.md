@@ -1,19 +1,20 @@
-# Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25"> <br>
-Personalized UC&C and DevOps Solutions 
+# Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25"> | Personalized UC&C and DevOps Solutions 
+
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 
 
-## Connect with me:
+## Connect with Me:
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="85" height="25"/>
-</a>&nbsp; 
+</a>
 
 <!-- Button for Gmail -->
 <a href="mailto:eng.miguelaz@gmail.com" title="Send me an email" alt="Email Miguel Arizmendi at eng.miguelaz@gmail.com">
 </a> <br>
 ✉️ eng.miguelaz@gmail.com <br>
 ☎️ +1 (503) 849 1492
+
 
 ## Tech Stack:
 <div style="display: flex; flex-wrap: wrap; align-items: left;">
