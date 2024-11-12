@@ -35,17 +35,22 @@ Personalized UC&C and DevOps Solutions
 
 
 ## Services & Consultations: 
-_DevOps, DevNet and UC&C Engineering Services_ <br>
+**DevOps, DevNet and UC&C Engineering Services**
 
-Let's connect to discuss your ideas, projects, or technical challenges<br>
-**Click** on one of the options **below** to **book** a consultation: <br>
+
+
+**Book a Consultation:** <br>
 
 ### Free 1-Hour Meeting: <br>
-🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour%20meeting-brightgreen?color=green)](https://calendly.com/with_miguel)
+🫴 [![Book a Free Meeting](https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour%20meeting-brightgreen?color=green)](https://calendly.com/with_miguel) Let's connect to discuss your ideas, projects, or technical challenges.
 
 
 
 ### Consultation (Hourly Rate Services)
-[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or short-term, smal, mid projects.
+[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or small to mid-size projects requiring short-term solutions.
+
+
+
+
 
 
