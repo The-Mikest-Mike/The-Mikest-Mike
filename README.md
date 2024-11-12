@@ -1,10 +1,10 @@
-<h2>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25"></h2>
+<h1>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25"></h2>
 
 <p><strong>Crafting UC&C and DevOps solutions tailored to your unique needs.</strong></p>
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br>
 
-<h2>Connect with Me:</h2>
+<h1>Connect with Me:</h2>
 
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
@@ -14,7 +14,7 @@
 <p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
 ☎️ &nbsp; +1 (503) 849 1492</p>
 
-<h2>Tech Stack:</h2>
+<h1>Tech Stack:</h1>
 <div style="display: flex; flex-wrap: wrap; align-items: left;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>Services & Consultations:</h2>
+<h1>Services & Consultations:</h1>
 
 <p>DevOps, DevNet and UC&C Engineering Services</p>
 
