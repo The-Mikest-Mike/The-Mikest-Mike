@@ -35,7 +35,7 @@
 ## Services & Consultations: 
 _DevOps, DevNet and UC&C Engineering Services_ <br>
 
-Let's discuss together your idea, project, question or whatever you have in mind <br>
+Let's connect and discuss together your idea, project, question or whatever you have in mind <br>
 Feel free to **Click** on one of the options **below** to **book** a consultation: <br>
 
 ### Free 1-Hour Meeting: <br>
