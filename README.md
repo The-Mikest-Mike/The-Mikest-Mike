@@ -12,8 +12,8 @@
 <!-- Button for Gmail -->
 <a href="mailto:eng.miguelaz@gmail.com" title="Send me an email" alt="Email Miguel Arizmendi at eng.miguelaz@gmail.com">
 </a> <br>
-✉️ eng.miguelaz@gmail.com <br>
-☎️ +1 (503) 849 1492
+✉️ &nbsp; eng.miguelaz@gmail.com <br>
+☎️ &nbsp; +1 (503) 849 1492
 
 
 ## Tech Stack:
