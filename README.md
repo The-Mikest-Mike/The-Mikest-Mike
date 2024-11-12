@@ -4,6 +4,8 @@
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 
 
+---
+
 ## Connect with Me:
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
@@ -15,6 +17,8 @@
 </a> <br>
 ✉️ &nbsp; eng.miguelaz@gmail.com <br>
 ☎️ &nbsp; +1 (503) 849 1492
+
+---
 
 
 ## Tech Stack:
@@ -33,8 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="580" height="150"/>
-
+---
 
 ## Services & Consultations: 
 **DevOps, DevNet and UC&C Engineering Services**
