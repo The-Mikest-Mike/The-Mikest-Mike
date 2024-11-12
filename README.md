@@ -2,7 +2,9 @@
 
 <p><strong>Crafting UC&C and DevOps solutions tailored to your unique needs.</strong></p>
 
-🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br><br>
+🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 
+
+<br>
 
 <h2>Connect with Me:</h2>
 
@@ -14,7 +16,7 @@
 <p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
 ☎️ &nbsp; +1 (503) 849 1492</p>
 
----
+<br>
 
 <h2>Tech Stack:</h2>
 <div style="display: flex; flex-wrap: wrap; align-items: left;">
@@ -32,7 +34,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
 
---- 
+<br>
 
 <h2>Services & Consultations:</h2>
 
@@ -53,6 +55,8 @@
   <img src="https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue" alt="Book Consultation - Hourly Rate">
 </a> Ideal for troubleshooting, one-off tasks, or small to mid-size projects requiring short-term solutions.
 </p>
+
+<br>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="980" height="150"/>
 
