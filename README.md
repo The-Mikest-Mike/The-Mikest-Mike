@@ -4,7 +4,7 @@
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br><br>
 
-<h3>Connect with Me:</h3>
+<h2>Connect with Me:</h2>
 
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
@@ -16,7 +16,7 @@
 
 ---
 
-<h3>Tech Stack:</h3>
+<h2>Tech Stack:</h2>
 <div style="display: flex; flex-wrap: wrap; align-items: left;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@
 
 --- 
 
-<h3>Services & Consultations:</h3>
+<h2>Services & Consultations:</h2>
 
 <p>DevOps, DevNet and UC&C Engineering Services</p>
 
@@ -52,6 +52,7 @@
 <a href="https://calendly.com/with_miguel/hourly-rate-consultation">
   <img src="https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue" alt="Book Consultation - Hourly Rate">
 </a> Ideal for troubleshooting, one-off tasks, or small to mid-size projects requiring short-term solutions.
+</p>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="980" height="150"/>
 
