@@ -54,7 +54,7 @@
 [![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or small to mid-size projects requiring short-term solutions.
 
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="580" height="150"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="980" height="150"/>
 
 
 
