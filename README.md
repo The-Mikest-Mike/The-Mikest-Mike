@@ -39,7 +39,7 @@
 <h4>Free 1-Hour Meeting:</h4>
 <p>
 <a href="https://calendly.com/with_miguel">
-  <img src="https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour%20meeting-brightgreen?color=green" alt="Book Free Meeting"> 
+  <img src="https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour-brightgreen?color=green" alt="Book Free Meeting"> 
 </a> You're welcome to bring documents or questions to ensure we make the most of our time together.
   
 </p>
@@ -48,7 +48,7 @@
 <p>
 <a href="https://calendly.com/with_miguel/hourly-rate-consultation">
   <img src="https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue" alt="Book Consultation - Hourly Rate">
-</a> Ideal for troubleshooting, one-off tasks, or small to mid-size projects requiring short-term solutions.
+</a> Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions.
 </p>
 
 <br>
