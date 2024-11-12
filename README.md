@@ -43,7 +43,7 @@
 </a>
 </p>
 
-<h4>Consultation (Hourly Rate Services)</h4>
+<h4>Hourly Rate Services</h4>
 <p>
 <a href="https://calendly.com/with_miguel/hourly-rate-consultation">
   <img src="https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue" alt="Book Consultation - Hourly Rate">
