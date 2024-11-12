@@ -10,7 +10,7 @@
 
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="85" height="25"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="86" height="25"/>
 </a><br>
 
 <p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
