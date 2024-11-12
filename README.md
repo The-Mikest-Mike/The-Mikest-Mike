@@ -44,9 +44,6 @@ Feel free to **Click** on one of the options **below** to **book** a consultatio
 
 
 ### Consultation (Hourly Rate Services)
-[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-cyan)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or short-term projects, including automation tasks
+[![Hourly Rate](https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue)](https://calendly.com/with_miguel/hourly-rate-consultation) Ideal for troubleshooting, one-off tasks, or short-term, smal, mid projects.
 
-
-### Custom Quote Consultation:
-[![Custom Quote](https://img.shields.io/badge/Book%20Consultation-Custom%20Quote-blue)](https://calendly.com/with_miguel/custom-quote-consultation) Best for small, mid, or larger projects that require a tailored solution
 
