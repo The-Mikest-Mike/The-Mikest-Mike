@@ -1,11 +1,6 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25">
 
-**Crafting UC&C and DevOps solutions with a focus on your unique needs.**  
-Let’s transform your ideas into impactful results!
-
-
-
-
+**Crafting UC&C and DevOps solutions tailored to your unique needs.** 
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 
 
