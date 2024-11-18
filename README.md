@@ -9,9 +9,8 @@
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="86" height="25"/>
-</a><br><br>
-
-<p>✉️ &nbsp; eng.miguelaz@gmail.com <br><br>
+</a><br>
+<p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
 ☎️ &nbsp; +1 (503) 849 1492</p>
 
 <h1>Tech Stack:</h1>
