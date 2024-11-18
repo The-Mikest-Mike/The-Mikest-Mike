@@ -34,14 +34,11 @@
 
 <p>DevOps, DevNet and UC&C Engineering Services</p>
 
-<p>Book a Consultation:</p>
-
-<h4>Free 1-Hour Meeting:</h4>
+<h4>Let's Grab a Virtual Coffee ☕</h4>
 <p>
 <a href="https://calendly.com/with_miguel">
-  <img src="https://img.shields.io/badge/Book%20Free%20Meeting-1%20hour-brightgreen?color=green" alt="Book Free Meeting" height="25"> 
+  <img src="https://img.shields.io/badge/Book%20Coffee%20Chat-1%20hour%20-brightgreen?color=green" alt="Book Free Meeting" height="25"> 
 </a> You're welcome to bring documents or questions to ensure we make the most of our time together.
-  
 </p>
 
 <h4>Hourly Rate Services</h4>
