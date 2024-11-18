@@ -37,16 +37,14 @@
 <h4>Let's Grab a Virtual Coffee</h4>
 <p>
 <a href="https://calendly.com/with_miguel">
-  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="25">
+  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24">
 </a> You're welcome to bring documents or questions to ensure we make the most of our time together.
 </p>
-
-
 
 <h4>Hourly Rate Services</h4>
 <p>
 <a href="https://calendly.com/with_miguel/hourly-rate-consultation">
-  <img src="https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue" alt="Book Consultation - Hourly Rate" height="25">
+  <img src="https://img.shields.io/badge/Book%20Consultation-Hourly%20Rate-blue" alt="Book Consultation - Hourly Rate" height="24">
 </a> Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions.
 </p>
 
