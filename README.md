@@ -2,16 +2,16 @@
 
 <p><strong>Crafting UC&C and DevOps solutions tailored to your unique needs.</strong></p>
 
-🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br>
+🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br><br>
 
 <h1>Connect with Me:</h2>
 
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="86" height="25"/>
-</a><br>
+</a><br><br>
 
-<p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
+<p>✉️ &nbsp; eng.miguelaz@gmail.com <br><br>
 ☎️ &nbsp; +1 (503) 849 1492</p>
 
 <h1>Tech Stack:</h1>
@@ -29,7 +29,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </p>
-<br>
+<br><br>
+
 <h1>Services & Consultations:</h1>
 
 <p>DevOps, DevNet and UC&C Engineering Services</p>
