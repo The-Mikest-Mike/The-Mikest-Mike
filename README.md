@@ -37,9 +37,9 @@
 <h4>Let's Grab a Virtual Coffee</h4>
 <p>
 <a href="https://calendly.com/with_miguel">
-  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"> <br>
-</a> - You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
-</a> - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions.
+  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>
+  - You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
+  - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions.
 </p>
 
 <br>
@@ -48,7 +48,7 @@
 </p>
 
 
-## 🚧 Coming Soon - Stay Tuned 🚧
+<h1>🚧 Coming Soon - Stay Tuned 🚧</h1>
 - WebQuiz-DevNet<br>
   Web quiz app that enables users to learn interactively. [Subscribe Now](https://Coming-Soon-StayTuned) for exclusive access!
 
