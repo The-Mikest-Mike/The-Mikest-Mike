@@ -38,14 +38,26 @@
 <p>
 <a href="https://calendly.com/with_miguel">
   <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"> <br>
-</a> You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
-</a> Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions.
+</a> - You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
+</a> - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions.
 </p>
 
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="980" height="150"/>
 </p>
+
+
+## 🚧 Coming Soon - Stay Tuned 🚧
+- WebQuiz-DevNet<br>
+  Web quiz app that enables users to learn interactively. [Subscribe Now](https://Coming-Soon-StayTuned) for exclusive access!
+
+- Mac Control Gestures<br>
+  Optimize your Mac workflow with hand gestures! [Learn More](https://Coming-Soon-StayTuned)  
+
+- File Organizer<br>
+  Simplify your file management. [Buy Now](https://Coming-Soon-StayTuned)
+
 
 
 
