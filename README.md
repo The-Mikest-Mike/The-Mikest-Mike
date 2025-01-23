@@ -51,13 +51,13 @@
 
 ## 🚧 Coming Soon - Stay Tuned 🚧
 - WebQuiz-DevNet<br>
-  Web quiz app that enables users to learn interactively. [Subscribe Now](https://Coming-Soon-StayTuned) for exclusive access!
+  Web quiz app that enables users to learn interactively. [Subscribe Now](https://Coming-Soon-StayTuned)
 
 - Mac Control Gestures<br>
-  Optimize your Mac workflow with hand gestures! [Learn More](https://Coming-Soon-StayTuned)  
+  Optimize your daily operations with hand gestures! [Learn More](https://Coming-Soon-StayTuned)  
 
 - File Organizer<br>
-  Simplify your file management. [Buy Now](https://Coming-Soon-StayTuned)
+  Simplify and Automate your file management. [Buy Now](https://Coming-Soon-StayTuned)
 
 
 
