@@ -54,7 +54,7 @@
 - Mac Control Gestures<br>
   Optimize your daily operations with hand gestures! [Learn More](https://Coming-Soon-StayTuned)  
 
-- File Organizer<br>
+- Intelligent File Organizer<br>
   Simplify and Automate your file management. [Buy Now](https://Coming-Soon-StayTuned)
 
 
