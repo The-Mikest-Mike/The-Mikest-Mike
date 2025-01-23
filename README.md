@@ -8,7 +8,7 @@
 
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="86" height="25"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="25"/>
 </a><br>
 <p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
 ☎️ &nbsp; +1 (503) 849 1492</p>
@@ -30,17 +30,14 @@
 </p>
 <br><br>
 
-<h1>Services & Consultations:</h1>
-
-<p>DevOps, DevNet and UC&C Engineering Services</p>
-
-<h4>Let's Grab a Virtual Coffee</h4>
+<h1>Let's Grab a Virtual Coffee</h1>
 <p>
 <a href="https://calendly.com/with_miguel">
   <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>
   
   - You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
-  - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions.
+  - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions. <br>
+  - DevOps, DevNet, Networking and UC&C Engineering Services.
 </p>
 
 <br>
