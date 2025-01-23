@@ -4,14 +4,24 @@
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br><br>
 
-<h1>Connect with Me:</h2>
+<h1>Connect with Me</h2>
 
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguel-arizmendi-0287a197/" title="Connect with me on LinkedIn" alt="LinkedIn profile">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="25"/>
 </a><br>
-<p>✉️ &nbsp; eng.miguelaz@gmail.com <br>
+<p>✉️ &nbsp; eng.miguelaz@gmail.com<br>
 ☎️ &nbsp; +1 (503) 849 1492</p>
+
+<h1>Let's Grab a Virtual Coffee</h1>
+<p>
+<a href="https://calendly.com/with_miguel">
+  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>
+  
+  - You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
+  - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions. <br>
+  - DevOps, DevNet, Networking and UC&C Engineering Services.
+</p>
 
 <h1>Tech Stack:</h1>
 <p align="center">
@@ -29,16 +39,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </p>
 <br><br>
-
-<h1>Let's Grab a Virtual Coffee</h1>
-<p>
-<a href="https://calendly.com/with_miguel">
-  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>
-  
-  - You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
-  - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions. <br>
-  - DevOps, DevNet, Networking and UC&C Engineering Services.
-</p>
 
 <br>
 <p align="center">
