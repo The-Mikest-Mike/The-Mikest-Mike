@@ -49,7 +49,8 @@
 </p>
 
 
-## 🚧 Coming Soon - Stay Tuned 🚧
+<h1>🚧 Coming Soon - Stay Tuned 🚧</h1>
+
 - WebQuiz-DevNet<br>
   Web quiz app that enables users to learn interactively. [Subscribe Now](https://Coming-Soon-StayTuned)
 
