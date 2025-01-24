@@ -48,17 +48,17 @@
 
 <h1>🚧 Coming Soon - Stay Tuned 🚧</h1>
 
-- WebQuiz<br>
+- **WebQuiz**<br>
   Master new concepts with interactive web quizzes!<br>
   📚 Tailored learning paths, instant feedback, and detailed explanations.  
   [Subscribe Now](https://Coming-Soon-StayTuned)
 
-- Mac Control Gestures<br>
+- **Mac Control Gestures**<br>
   Revolutionize your daily operations with hand gestures control!<br> 
   🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
   [Learn More](https://Coming-Soon-StayTuned)
 
-- Smart File Organizer<br>
+- **Smart File Organizer**<br>
   Simplify and Automate your file management with one-click, (Or NONE!)<br>
   🗂 Save time and stay organized with this must-have tool.  
   [Buy Now](https://Coming-Soon-StayTuned)
