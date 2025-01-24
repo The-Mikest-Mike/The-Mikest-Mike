@@ -16,11 +16,12 @@
 <h1>Let's Grab a Virtual Coffee</h1>
 <p>
 <a href="https://calendly.com/with_miguel">
-  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>
+  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>  
+You're welcome to bring documents or questions to ensure we make the most of our time together.<br>
   
-  - You're welcome to bring documents or questions to ensure we make the most of our time together. <br>
-  - Also Ideal for troubleshooting, one-off tasks, small to mid-size projects and short-term solutions. <br>
-  - DevOps, DevNet, Networking and UC&C Engineering Services.
+  - Project feedback, consulting, or collaborations. Small to mid-size projects<br>
+  - Troubleshooting, problem-solving, one-off tasks, brainstorming sessions.<br>
+  - Career advice and tech stack guidance<br>
 </p>
 
 <h1>Tech Stack:</h1>
