@@ -48,7 +48,7 @@
 
 <h1>🚧 Coming Soon - Stay Tuned 🚧</h1>
 
-- WebQuiz-DevNet<br>
+- WebQuiz<br>
   Master new concepts with interactive web quizzes!<br>
   📚 Tailored learning paths, instant feedback, and detailed explanations.  
   [Subscribe Now](https://Coming-Soon-StayTuned)
