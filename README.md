@@ -51,17 +51,23 @@
 - **WebQuiz**<br>
   Master new concepts with interactive web quizzes!<br>
   📚 Tailored learning paths, instant feedback, and detailed explanations.  
-  [Subscribe Now](https://Coming-Soon-StayTuned)
+  [![Subscribe](https://img.shields.io/badge/Subscribe%20Now%20-blue)](https://Coming-Soon-StayTuned)
 
 - **Mac Control Gestures**<br>
   Revolutionize your daily operations with hand gestures control!<br> 
   🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
-  [Learn More](https://Coming-Soon-StayTuned)
+  [![Subscribe](https://img.shields.io/badge/Learn%20More%20-blue)](https://Coming-Soon-StayTuned)
 
 - **Smart File Organizer**<br>
-  Simplify and Automate your file management with one-click, (Or NONE!)<br>
+  Simplify and Automate your file management with one-click, (OR NONE!)<br>
   🗂 Save time and stay organized with this must-have tool.  
-  [Buy Now](https://Coming-Soon-StayTuned)
+  [![Subscribe](https://img.shields.io/badge/Buy%20Now%20-blue)](https://Coming-Soon-StayTuned)
+
+
+
+
+
+
 
 
 
