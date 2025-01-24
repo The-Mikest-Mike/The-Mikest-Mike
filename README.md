@@ -1,8 +1,6 @@
 <h1>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25"></h2>
 
-<p><strong>Crafting UC&C and DevOps solutions tailored to your unique needs.</strong></p>
-
-🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳 <br><br>
+🌱 **Passionate about positively impacting and transforming people's lives through technology!** 🌳<br><br>
 
 <h1>Connect with Me</h2>
 
