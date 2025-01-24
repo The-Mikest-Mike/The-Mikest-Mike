@@ -49,13 +49,19 @@
 <h1>🚧 Coming Soon - Stay Tuned 🚧</h1>
 
 - WebQuiz-DevNet<br>
-  Web quiz app that enables users to learn interactively. [Subscribe Now](https://Coming-Soon-StayTuned)
+  Master new concepts with interactive web quizzes!<br>
+  📚 Tailored learning paths, instant feedback, and detailed explanations.  
+  [Subscribe Now](https://Coming-Soon-StayTuned)
 
 - Mac Control Gestures<br>
-  Optimize your daily operations with hand gestures! [Learn More](https://Coming-Soon-StayTuned)  
+  Revolutionize your daily operations with hand gestures control!<br> 
+  🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
+  [Learn More](https://Coming-Soon-StayTuned)
 
 - Smart File Organizer<br>
-  Simplify and Automate your file management. [Buy Now](https://Coming-Soon-StayTuned)
+  Simplify and Automate your file management with one-click, (Or NONE!)<br>
+  🗂 Save time and stay organized with this must-have tool.  
+  [Buy Now](https://Coming-Soon-StayTuned)
 
 
 
