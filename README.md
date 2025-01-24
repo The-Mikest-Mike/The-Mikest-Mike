@@ -41,12 +41,6 @@ You're welcome to bring documents or questions to ensure we make the most of our
 </p>
 <br><br>
 
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="980" height="150"/>
-</p>
-
-
 <h1>🚧 Coming Soon - Stay Tuned 🚧</h1>
 
 - **WebQuiz**<br>
@@ -64,9 +58,11 @@ You're welcome to bring documents or questions to ensure we make the most of our
   🗂 Save time and stay organized with this must-have tool.  
   [![Subscribe](https://img.shields.io/badge/Buy%20Now%20-blue)](https://Coming-Soon-StayTuned)
 
-
-
-
+  
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" title="GitHub contributions snake animation" alt="A dynamic snake animation representing GitHub contributions" width="980" height="150"/>
+</p>
 
 
 
