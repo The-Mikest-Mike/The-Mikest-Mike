@@ -56,7 +56,7 @@ You're welcome to bring documents or questions to ensure we make the most of our
 - **Smart File Organizer**<br>
   Simplify and Automate your file management with one-click, (OR NONE!)<br>
   🗂 Save time and stay organized with this must-have tool.  
-  [![Buy Now](https://img.shields.io/badge/Subscribe%20%2F%20Buy%20Now-blue)](https://Coming-Soon-StayTuned)
+  [![Buy Now](https://img.shields.io/badge/%20Buy%20Now-blue)](https://Coming-Soon-StayTuned)
 
   
 <br>
