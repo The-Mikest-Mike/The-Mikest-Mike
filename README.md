@@ -51,7 +51,7 @@ You're welcome to bring documents or questions to ensure we make the most of our
 - **Mac Control Gestures**<br>
   Revolutionize your daily operations with hand gestures control!<br> 
   🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
-  [![Subscribe](https://img.shields.io/badge/Learn%20More%20-blue)](https://Coming-Soon-StayTuned)
+  [![Learn More](https://img.shields.io/badge/Learn%20More-blue)](https://Coming-Soon-StayTuned)
 
 - **Smart File Organizer**<br>
   Simplify and Automate your file management with one-click, (OR NONE!)<br>
