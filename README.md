@@ -46,7 +46,7 @@ You're welcome to bring documents or questions to ensure we make the most of our
 - **WebQuiz**<br>
   Master new concepts with interactive web quizzes!<br>
   📚 Tailored learning paths, instant feedback, and detailed explanations.  
-  [![Subscribe/Buy](https://img.shields.io/badge/Subscribe%20/20%Buy20%Now%20-blue)](https://Coming-Soon-StayTuned)
+  [![Subscribe/Buy](https://img.shields.io/badge/Subscribe%20%2F%20Buy%20Now-blue)](https://Coming-Soon-StayTuned)
 
 - **Mac Control Gestures**<br>
   Revolutionize your daily operations with hand gestures control!<br> 
