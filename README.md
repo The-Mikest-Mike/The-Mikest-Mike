@@ -51,12 +51,12 @@ You're welcome to bring documents or questions to ensure we make the most of our
 - **Mac Control Gestures**<br>
   Revolutionize your daily operations with hand gestures control!<br> 
   🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
-  [![Learn More](https://img.shields.io/badge/Learn%20More-blue)](https://Coming-Soon-StayTuned)
+  [![Subscribe/Buy](https://img.shields.io/badge/Subscribe%2FBuy-blue)](https://Coming-Soon-StayTuned)
 
 - **Smart File Organizer**<br>
   Simplify and Automate your file management with one-click, (OR NONE!)<br>
   🗂 Save time and stay organized with this must-have tool.  
-  [![Subscribe](https://img.shields.io/badge/Buy%20Now%20-blue)](https://Coming-Soon-StayTuned)
+ [![Buy Now](https://img.shields.io/badge/Buy%20Now-blue)](https://Coming-Soon-StayTuned)
 
   
 <br>
