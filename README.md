@@ -22,7 +22,7 @@ Passionate about positively impacting and transforming people's lives through te
 <p>
 <a href="https://calendly.com/with_miguel">
   <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>  
-You're welcome to bring documents or questions to ensure we make the most of our time together
+You're welcome to bring documents or questions to make the most of our time together
 </p>
 
 ---
