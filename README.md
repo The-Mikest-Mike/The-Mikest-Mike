@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="25"/>
 </a><br>
 <p>✉️ &nbsp; eng.miguelaz@gmail.com<br>
-☎️ &nbsp; +1 (503) 849 1492</p>
+
 
 <h1>Let's Grab a Virtual Coffee</h1>
 <p>
