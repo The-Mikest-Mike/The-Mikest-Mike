@@ -2,6 +2,8 @@
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳<br>
 
+---
+
 ## Connect with Me
 
 <!-- Button for LinkedIn -->
@@ -10,6 +12,7 @@
 </a><br>
 <p>✉️ &nbsp; eng.miguelaz@gmail.com<br>
 
+---
 
 ## Let's Grab a Virtual Coffee
 <p>
@@ -17,6 +20,8 @@
   <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>  
 You're welcome to bring documents or questions to ensure we make the most of our time together.
 </p>
+
+---
 
 ## Tech Stack:
 
@@ -36,6 +41,8 @@ You're welcome to bring documents or questions to ensure we make the most of our
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </p>
 <br><br>
+
+---
 
 ## 🚧 Coming Soon - Stay Tuned 🚧
 
