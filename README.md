@@ -68,22 +68,30 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 ## Coming Soon 🚧
 
 <p align="left">
-    Estimated Launch: <kbd>Q2 2026</kbd>
+    Estimated Launch: <kbd><time datetime="2026-04">Q2 2026</time></kbd>
 </p> 
 
-- #### WebQuiz
-  Master new concepts with interactive web quizzes! 
-  📚 [![Try now](https://img.shields.io/badge/Try%20now-blue)](https://tmmsoftware.com/)
- 
+<ul>
+  <li>
+    <h4>WebQuiz</h4>
+    <p>Master new concepts with interactive web quizzes!</p>
+    📚 <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/Try%20now-blue" alt="Try now"></a>
+  </li>
 
-- #### Mac Control Gestures 
-  Revolutionize your daily operations with hand gestures control!  
-  🚀 [![Try now](https://img.shields.io/badge/Try%20now-blue)](https://tmmsoftware.com/)
+  <li>
+    <h4>Mac Control Gestures</h4>
+    <p>Revolutionize your daily operations with hand gestures control!</p>
+    🚀 <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/Try%20now-blue" alt="Try now"></a>
+  </li>
 
-- #### Smart File Organizer 
- Simplify and Automate your file management with one-click, (OR NONE!) 
-  🗂 [![Try now](https://img.shields.io/badge/%20Try%20now-blue)](https://tmmsoftware.com/)
+  <li>
+    <h4>Smart File Organizer</h4>
+    <p>Simplify and Automate your file management with one-click, (OR NONE!)</p>
+    🗂 <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/%20Try%20now-blue" alt="Try now"></a>
+  </li>
+</ul>
 
+</section>
   
  
 <p align="center">
