@@ -42,17 +42,17 @@ You're welcome to bring documents or questions to ensure we make the most of our
 - **WebQuiz**<br>
   Master new concepts with interactive web quizzes!<br>
   📚 Tailored learning paths, instant feedback, and detailed explanations.  
-  [![Buy Now](https://img.shields.io/badge/Buy%20Now-blue)](https://tmmsoftware.com/)
+  [![try Now](https://img.shields.io/badge/try%20Now-blue)](https://tmmsoftware.com/)
 
 - **Mac Control Gestures**<br>
   Revolutionize your daily operations with hand gestures control!<br> 
   🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
-  [![Buy Now](https://img.shields.io/badge/Buy%20Now-blue)](https://tmmsoftware.com/)
+  [![try Now](https://img.shields.io/badge/try%20Now-blue)](https://tmmsoftware.com/)
 
 - **Smart File Organizer**<br>
   Simplify and Automate your file management with one-click, (OR NONE!)<br>
   🗂 Save time and stay organized with this must-have tool.  
-  [![Buy Now](https://img.shields.io/badge/%20Buy%20Now-blue)](https://tmmsoftware.com/)
+  [![try Now](https://img.shields.io/badge/%20try%20Now-blue)](https://tmmsoftware.com/)
 
   
 <br>
