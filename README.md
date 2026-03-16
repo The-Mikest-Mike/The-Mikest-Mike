@@ -68,7 +68,7 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 ## Coming Soon 🚧
 
 <p align="left">
-    Estimated Launch: <kbd><time datetime="2026-04">Q2 2026</time></kbd>
+    Estimated Launch: <kbd><time datetime="2026-07">Q3 2026</time></kbd>
 </p> 
 
 <ul>
