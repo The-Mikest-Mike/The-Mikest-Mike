@@ -42,7 +42,7 @@ _You're welcome to bring documents or questions to our meeting to make the most 
  #### Data layer (Entity tables)  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
 
- #### pplication logic & UI 
+ #### Application logic & UI 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
   [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
