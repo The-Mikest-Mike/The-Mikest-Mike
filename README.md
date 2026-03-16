@@ -4,29 +4,33 @@ Passionate about positively impacting and transforming people's lives through te
 
 ---
 
-## Connect with Me
+## Connect with Me 🤝
 
-<!-- Button for LinkedIn -->
-<p>
-  <a href="https://www.linkedin.com/in/miguelaz" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
-  </a>
-  &nbsp;&nbsp;
-  <code>✉️ eng.miguelaz@gmail.com</code>
-</p>
+<!-- Button for LinkedIn --> 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/miguelaz">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://topmate.io/miguel_arizmendi">
+        <img src="https://img.shields.io/badge/Book_Virtual_Coffee_Chat-☕-green?style=for-the-badge" alt="Book Meeting" height="35"/>
+      </a>
+    </td>
+    <td align="center">
+      <code>✉️ eng.miguelaz@gmail.com</code>
+    </td>
+  </tr>
+</table>
+
+> **Note:** You're welcome to bring documents or questions to our meeting to make the most of our time together!
 
 ---
 
-## Let's Grab a Virtual Coffee
-<p>
-<a href="https://calendly.com/with_miguel">
-  <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>  
-You're welcome to bring documents or questions to make the most of our time together
-</p>
-
----
-
-## 🧠 My Train of thought development order: 
+## My Train of thought development order 🧠: 
 
 <p align="left">
   
@@ -61,7 +65,7 @@ You're welcome to bring documents or questions to make the most of our time toge
 
 ---
 
-## 🚧 Coming Soon - Stay Tuned 🚧
+## Coming Soon - Stay Tuned 🚧
 
 - **WebQuiz**<br>
   Master new concepts with interactive web quizzes!<br>
