@@ -73,19 +73,19 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 
 <ul>
   <li>
-    <h4>WebQuiz</h4>
+    <h4>Quizzari</h4>
     <p>📚 Master new concepts with interactive web quizzes!</p>
       <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/Try%20now-blue" alt="Try now"></a>
   </li>
 
   <li>
-    <h4>Mac Control Gestures</h4>
+    <h4>Wave</h4>
     <p>🚀 Revolutionize your daily operations with hand gestures control!</p>
       <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/Try%20now-blue" alt="Try now"></a>
   </li>
 
   <li>
-    <h4>Smart File Organizer</h4>
+    <h4>1Organizer</h4>
     <p>🗂 Simplify and Automate your file management with one-click, (OR NONE!)</p>
       <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/%20Try%20now-blue" alt="Try now"></a>
   </li>
