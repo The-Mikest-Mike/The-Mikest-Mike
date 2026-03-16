@@ -31,7 +31,7 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 
 ---
 
-## My Train of thought development order 🧠: 
+## My Train of thought development order 🧠
 
 <p align="left">
   
@@ -67,20 +67,22 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 
 ## Coming Soon - Stay Tuned 🚧
 
-- **WebQuiz** 
+<p align="center">
+    Estimated Launch: <kbd>Q2 2026</kbd>
+</p> 
+
+- #### WebQuiz
   Master new concepts with interactive web quizzes! 
-  📚 Tailored learning paths, instant feedback, and detailed explanations.  
-  [![Try now](https://img.shields.io/badge/Try%20now-blue)](https://tmmsoftware.com/)
+  📚 [![Try now](https://img.shields.io/badge/Try%20now-blue)](https://tmmsoftware.com/)
+ 
 
-- **Mac Control Gestures** 
+- #### Mac Control Gestures 
   Revolutionize your daily operations with hand gestures control!  
-  🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
-  [![Try now](https://img.shields.io/badge/Try%20now-blue)](https://tmmsoftware.com/)
+  🚀 [![Try now](https://img.shields.io/badge/Try%20now-blue)](https://tmmsoftware.com/)
 
-- **Smart File Organizer** 
-  Simplify and Automate your file management with one-click, (OR NONE!) 
-  🗂 Save time and stay organized with this must-have tool.  
-  [![Try now](https://img.shields.io/badge/%20Try%20now-blue)](https://tmmsoftware.com/)
+- #### Smart File Organizer 
+ Simplify and Automate your file management with one-click, (OR NONE!) 
+  🗂 [![Try now](https://img.shields.io/badge/%20Try%20now-blue)](https://tmmsoftware.com/)
 
   
  
