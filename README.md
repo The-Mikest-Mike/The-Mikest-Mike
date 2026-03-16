@@ -11,14 +11,14 @@
 <p>✉️ &nbsp; eng.miguelaz@gmail.com<br>
 
 
-<h1>Let's Grab a Virtual Coffee</h1>
+## Let's Grab a Virtual Coffee
 <p>
 <a href="https://calendly.com/with_miguel">
   <img src="https://img.shields.io/badge/Book%20Virtual%20Coffee%20Chat-%20☕%20-brightgreen?color=green" alt="Book Free Meeting" height="24"></a><br>  
 You're welcome to bring documents or questions to ensure we make the most of our time together.
 </p>
 
-<h1>Tech Stack:</h1>
+## Tech Stack:
 
   
   - DevOps:<br>
@@ -37,7 +37,7 @@ You're welcome to bring documents or questions to ensure we make the most of our
 </p>
 <br><br>
 
-<h1>🚧 Coming Soon - Stay Tuned 🚧</h1>
+## 🚧 Coming Soon - Stay Tuned 🚧
 
 - **WebQuiz**<br>
   Master new concepts with interactive web quizzes!<br>
