@@ -2,7 +2,7 @@
 
 🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳<br>
 
-<h1>Connect with Me</h2>
+## Connect with Me
 
 <!-- Button for LinkedIn -->
 <a href="https://www.linkedin.com/in/miguelaz" title="Connect with me on LinkedIn" alt="LinkedIn profile">
