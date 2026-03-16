@@ -70,17 +70,17 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 - **WebQuiz**<br>
   Master new concepts with interactive web quizzes!<br>
   📚 Tailored learning paths, instant feedback, and detailed explanations.  
-  [![try Now](https://img.shields.io/badge/try%20Now-blue)](https://tmmsoftware.com/)
+  [![Try now](https://img.shields.io/badge/try%20Now-blue)](https://tmmsoftware.com/)
 
 - **Mac Control Gestures**<br>
   Revolutionize your daily operations with hand gestures control!<br> 
   🚀 Boost efficiency, reduce fatigue, and feel empowered while navigating your Mac.  
-  [![try Now](https://img.shields.io/badge/try%20Now-blue)](https://tmmsoftware.com/)
+  [![Try now](https://img.shields.io/badge/try%20Now-blue)](https://tmmsoftware.com/)
 
 - **Smart File Organizer**<br>
   Simplify and Automate your file management with one-click, (OR NONE!)<br>
   🗂 Save time and stay organized with this must-have tool.  
-  [![try Now](https://img.shields.io/badge/%20try%20Now-blue)](https://tmmsoftware.com/)
+  [![Try now](https://img.shields.io/badge/%20try%20Now-blue)](https://tmmsoftware.com/)
 
   
 <br>
