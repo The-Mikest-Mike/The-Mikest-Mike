@@ -29,7 +29,6 @@ You're welcome to bring documents or questions to make the most of our time toge
 
 ## 🧠 My Train of thought development order: 
 
-<kbd>
 <p align="left">
   
 **Documentation & Planning** <br>
@@ -60,8 +59,6 @@ You're welcome to bring documents or questions to make the most of our time toge
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
 </p>
-</kbd>
-<br><br>
 
 ---
 
