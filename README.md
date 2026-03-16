@@ -6,8 +6,7 @@ Passionate about positively impacting and transforming people's lives through te
 
 ## Connect with Me 🤝
 
-<!-- Button for LinkedIn --> 
-
+<!-- Button for LinkedIn, Calendly and Email --> 
 <table>
   <tr>
     <td align="center">
