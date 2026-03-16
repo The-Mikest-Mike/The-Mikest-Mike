@@ -1,6 +1,6 @@
 # Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25">
 
-Passionate about positively impacting and transforming people's lives through technology! 🌱 🌳<br>
+Passionate about positively impacting and transforming people's lives through technology! 🌱 🌳
 
 ---
 
@@ -14,7 +14,6 @@ Passionate about positively impacting and transforming people's lives through te
   &nbsp;&nbsp;
   <code>✉️ eng.miguelaz@gmail.com</code>
 </p>
-
 
 ---
 
@@ -48,7 +47,6 @@ You're welcome to bring documents or questions to make the most of our time toge
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 
-
 **Verify and Test** <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40" />&nbsp;
@@ -59,6 +57,7 @@ You're welcome to bring documents or questions to make the most of our time toge
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
 </p>
+</table>
 
 ---
 
