@@ -37,7 +37,7 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 
   
   #### Documentation
-  <a href="https://www.mkdocs.org/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" width="40" height="40"/></a>
+  <img href="https://www.mkdocs.org/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" width="40" height="40" />&nbsp;
 <br>↓
  #### Data layer (Entity tables)  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
