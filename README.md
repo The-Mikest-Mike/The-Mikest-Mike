@@ -31,14 +31,14 @@ _You're welcome to bring documents or questions to our meeting to make the most 
 
 ---
 
-## My Train of thought development order 🧠
+## My Train of thought new app development order 🧠
 
 <p align="left">
 
   
-  #### Documentation & Planning
-  <a href="https://www.mkdocs.org/"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mkdocs.svg" title="MkDocs" alt="MkDocs" width="40" height="40"/></a>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40" />&nbsp;
+  #### Documentation
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mkdocs/mkdocs-original.svg" title="MkDocs" alt="MkDocs" width="40" height="40" />
+&nbsp; ↓
 <br>↓
  #### Data layer (Entity tables)  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
@@ -63,7 +63,7 @@ _You're welcome to bring documents or questions to our meeting to make the most 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
 <br>↓
- #### Ticket Service Management
+ #### Ticket Service Management & Product Backlog
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40" />
 </p>
 
