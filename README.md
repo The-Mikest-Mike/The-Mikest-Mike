@@ -20,7 +20,8 @@ Passionate about positively impacting and transforming people's lives through te
   </tr>
 </table>
 
-_You're welcome to bring documents or questions to our meeting to make the most of our time together!_
+<p>_Let's make the most of our time together!</p> 
+<p>You're welcome to bring documents or questions to our meetings_</p>
 
 ---
 
