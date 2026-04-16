@@ -13,13 +13,6 @@ Passionate about positively impacting and transforming people's lives through te
       <a href="https://www.linkedin.com/in/miguelaz">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
       </a>
-<!-- Calendly meeting booking button -->
-    </td>
-    <td align="center">
-      <a href="https://calendly.com/with_miguel">
-        <img src="https://img.shields.io/badge/Book_Virtual_Coffee_Chat-☕-green?style=for-the-badge" alt="Book Meeting" height="35"/>
-      </a>
-    </td>
 <!-- Email contact -->
     <td align="center">
       <code>✉️ eng.miguelaz@gmail.com</code>
