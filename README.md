@@ -63,30 +63,11 @@ _<p>You're welcome to bring documents or questions to our meetings</p>_
 ---
 
 ## Coming Soon 🚧
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
 
 <p align="left">
     Estimated Launch: <kbd><time datetime="2026-07">Q3 2026</time></kbd>
 </p> 
-
-<ul>
-  <li>
-    <h4>Quizzari</h4>
-    <p>📚 Master new concepts with interactive web quizzes!</p>
-      <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/Try%20now-blue" alt="Try now"></a>
-  </li>
-
-  <li>
-    <h4>Wave</h4>
-    <p>🚀 Revolutionize your daily operations with hand gestures control!</p>
-      <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/Try%20now-blue" alt="Try now"></a>
-  </li>
-
-  <li>
-    <h4>1Organizer</h4>
-    <p>🗂 Simplify and Automate your file management with one-click, (OR NONE!)</p>
-      <a href="https://tmmsoftware.com/"><img src="https://img.shields.io/badge/%20Try%20now-blue" alt="Try now"></a>
-  </li>
-</ul>
 
 </section>
   
