@@ -25,6 +25,15 @@ _<p>You're welcome to bring documents or questions to our meetings</p>_
 
 ---
 
+## Coming Soon 🚧
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
+
+<p align="left">
+    Estimated Launch: <kbd><time datetime="2026-07">Q3 2026</time></kbd>
+</p> 
+
+---
+
 ## My Train of thought development order 🧠
 
 <p align="left">
@@ -62,12 +71,7 @@ _<p>You're welcome to bring documents or questions to our meetings</p>_
 
 ---
 
-## Coming Soon 🚧
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
 
-<p align="left">
-    Estimated Launch: <kbd><time datetime="2026-07">Q3 2026</time></kbd>
-</p> 
 
 </section>
   
