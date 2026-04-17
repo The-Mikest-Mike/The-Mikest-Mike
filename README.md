@@ -6,19 +6,15 @@ Passionate about positively impacting and transforming people's lives through te
 
 ## Connect with Me 🤝
 
-<!-- LinkedIn button -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/miguelaz">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
-      </a>
-<!-- Email contact -->
-    <td align="center">
-      <code>✉️ eng.miguelaz@gmail.com</code>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- LinkedIn button -->
+  <a href="https://www.linkedin.com/in/miguelaz">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Email contact -->
+  <code>✉️ eng.miguelaz@gmail.com</code>
+</p>
 
 _<p>Let's make the most of our time together!</p>_ 
 _<p>You're welcome to bring documents or questions to our meetings</p>_
