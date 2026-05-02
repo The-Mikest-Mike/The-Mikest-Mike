@@ -1,10 +1,10 @@
-# Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25" height="25">
+# Welcome!
 
 Passionate about positively impacting and transforming people's lives through technology! 🌱 🌳
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me 
 
 <p align="left">
   <!-- LinkedIn button -->
@@ -21,7 +21,7 @@ _<p>You're welcome to bring documents or questions to our meetings</p>_
 
 ---
 
-## Coming Soon 🚧
+## Coming Soon
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
 
 <p align="left">
@@ -30,7 +30,7 @@ _<p>You're welcome to bring documents or questions to our meetings</p>_
 
 ---
 
-## My Train of thought development order 🧠
+##  🧠 My Train of thought development order
 
 <p align="left">
 
