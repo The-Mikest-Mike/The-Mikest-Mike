@@ -21,12 +21,15 @@ _<p>You're welcome to bring documents or questions to our meetings</p>_
 
 ---
 
-## Coming Soon
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
+## TMM-LAB Innovation Ecosystem
+https://tmm-lab.com/
 
 <p align="left">
     Estimated Launch: <kbd><time datetime="2026-07">Q3 2026</time></kbd>
 </p> 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
+
 
 ---
 
