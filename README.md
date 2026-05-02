@@ -4,7 +4,7 @@ Passionate about positively impacting and transforming people's lives through te
 
 ---
 
-## Connect with Me 🤝
+## Connect with Me
 
 <p align="left">
   <!-- LinkedIn button -->
