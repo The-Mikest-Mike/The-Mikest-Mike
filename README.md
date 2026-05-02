@@ -33,7 +33,7 @@ https://tmm-lab.com/
 
 ---
 
-## 🧠 TMM-LAB Development Doctrine (GitLab Handbook Style)
+## TMM-LAB Development Doctrine
 
 | | | |
 | :--- | :---: | ---: |
