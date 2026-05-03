@@ -1,6 +1,7 @@
 # Welcome!
 
-🌱 Passionate about positively impacting and transforming people's lives through technology! 🌳
+🌱 Passionate about positively impacting and transforming people's lives through technology! 
+🌳 Passion for understanding “the how” behind technology solutions 
 
 ---
 
