@@ -1,6 +1,6 @@
 # Welcome!
 
-🌱 Passionate about positively impacting and transforming people's lives through technology! <br>
+🌱 Passionate about positively impacting and transforming people's lives through technology!<br>
 🌳 Passion for understanding “the how” behind technology solutions <br>
 🌲 Strong focus on “How to Achieve” 
 
@@ -18,8 +18,8 @@
   <code>✉️ eng.miguelaz@gmail.com</code>
 </p>
 
-_<p>Let's make the most of our time together!</p>_ 
-_<p>You're welcome to bring documents or questions to our meetings</p>_
+_Let's make the most of our time together!_ <br>
+_You're welcome to bring documents or questions to our meetings_
 
 ---
 
@@ -31,6 +31,9 @@ https://tmm-lab.com/
 </p> 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
+<a href="https://gitlab.com/MiguelAZ4">
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="GitLab" height="35">
+</a>
 
 
 ---
