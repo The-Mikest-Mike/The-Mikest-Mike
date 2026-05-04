@@ -8,10 +8,10 @@
 
 ## 🤝 Connect with Me 
 
-<p align="left">
-  <!-- LinkedIn button -->
-  <a href="https://www.linkedin.com/in/miguelaz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+<a href="https://www.linkedin.com/in/miguelaz">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35">
+</a>
+
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Email contact -->
