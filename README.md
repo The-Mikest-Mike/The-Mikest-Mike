@@ -8,14 +8,17 @@
 
 ## 🤝 Connect with Me 
 
+
+<p align="left">
 <a href="https://www.linkedin.com/in/miguelaz">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35">
 </a>
 
-  </a>
+<a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Email contact -->
   <code>✉️ eng.miguelaz@gmail.com</code>
+</a> 
 </p>
 
 _Let's make the most of our time together!_ <br>
@@ -27,13 +30,14 @@ _You're welcome to bring documents or questions to our meetings_
 https://tmm-lab.com/
 
 <p align="left">
-    Estimated Launch: <kbd><time datetime="2026-07">Q3 2026</time></kbd>
+    Estimated Launch: <kbd><time datetime="2026-07">Q3 2026</time></kbd><br>
+  <a href="https://gitlab.com/MiguelAZ4">
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="GitLab" height="35">
+</a>
 </p> 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I11XWKKL)
-<a href="https://gitlab.com/MiguelAZ4">
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="GitLab" height="35">
-</a>
+
 
 
 ---
