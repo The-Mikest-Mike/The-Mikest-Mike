@@ -45,7 +45,7 @@ https://tmm-lab.com/
 ## Development Doctrine
 
 <p align="center">
-  <img src="development-doctrine.png" alt="TMM-LAB Development Doctrine" width="100%">
+  <img src="conceptual-pipeline.png" alt="TMM-LAB Development Doctrine" width="100%">
 </p>
 
 
